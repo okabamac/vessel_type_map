@@ -1,0 +1,42 @@
+operator,field,latitude,longitude,vessels,type
+SNEPCO,Bonga,4.5575,4.61635,MV Warami,FSV
+SNEPCO,Bonga,4.5575,4.61635,MV Charis or A-100,PSV
+SNEPCO,Bonga,4.5575,4.61635,MV Anaiah,PSV
+SNEPCO,Bonga,4.5575,4.61635,Guardian 1,FMMV Security Vessel
+SNEPCO,Bonga,4.5575,4.61635,Guardian 9,FMMV Security Vessel
+SNEPCO,Bonga,4.5575,4.61635,UTAI 8 ,PC
+SNEPCO,Bonga,4.5575,4.61635,EA TEMILE & SONS,MID-SIZE PSV
+SNEPCO,Bonga,4.5575,4.61635,EA TEMILE & SONS,LARGE PSV
+SNEPCO,Bonga,4.5575,4.61635,E. A. TEMILE & SONS DEV. CO LTD,PERSONNEL CARRIER
+SNEPCO,Bonga,4.5575,4.61635,E. A. TEMILE & SONS DEV. CO LTD,ANCHOR HANDLING TUG
+TUPNI,Egina & Akpo,3.05028,6.69731,PETROMARINE,Terminal Tug
+TUPNI,Egina & Akpo,3.05028,6.69731,AFRIK DELTA,Terminal Tug
+TUPNI,Egina & Akpo,3.05028,6.69731,TEMILE,Medium PSV
+TUPNI,Egina & Akpo,3.05028,6.69731,PETROMARINE,Medium PSV
+TUPNI,Egina & Akpo,3.05028,6.69731,STRICKLAND,Security Vessel
+TUPNI,Egina & Akpo,3.05028,6.69731,PUNNF,Security Vessel
+TUPNI,Egina & Akpo,3.05028,6.69731,HOMELAND,Security Vessel
+TUPNI,Egina & Akpo,3.05028,6.69731,MULTIPLAN,Security Vessel
+TUPNI,Egina & Akpo,3.05028,6.69731,OMO-ORIA,Fast Crew Boat
+TUPNI,Egina & Akpo,3.05028,6.69731,Marine Platforms,OIMR
+STARDEEP,Agbami,3.46261,5.5605,Awaritse Nig Ltd and Ocean Explorers,Intermix
+STARDEEP,Agbami,3.46261,5.5605,Awaritse Nig Ltd and Ocean Explorers,PSV
+STARDEEP,Agbami,3.46261,5.5605,Multiplan,Crew Boat
+STARDEEP,Agbami,3.46261,5.5605,Python Eng,Crew Boat
+STARDEEP,Agbami,3.46261,5.5605,Python Eng,Crew Boat
+STARDEEP,Agbami,3.46261,5.5605,Marine Platform,Subsea Intervention
+STARDEEP,Agbami,3.46261,5.5605,Starz Investment,AHTS
+STARDEEP,Agbami,3.46261,5.5605,Starz Investment,AHTS
+STARDEEP,Agbami,3.46261,5.5605,Petromarine,AHTS
+Esso,Erha & Usan,5.35641,4.34207,Awaritse Nigeria Limited,Medium PSV
+Esso,Erha & Usan,5.35641,4.34207,ERDIS Nigeria Ltd,Medium PSV
+Esso,Erha & Usan,5.35641,4.34207,Tamrose Ventures Ltd,Medium PSV
+Esso,Erha & Usan,5.35641,4.34207,LES Energy Services,Large MPSV (GT 18006) -  Lewek Crusader
+Esso,Erha & Usan,5.35641,4.34207,E.A. Temile & Sons Devmt Co. Nig Ltd,FSV
+Esso,Erha & Usan,5.35641,4.34207,Hamilton Technologies,FSV
+Esso,Erha & Usan,3.60676,7.39318,Homeland Integrated Offshore Services Ltd,FSV
+Esso,Erha & Usan,3.60676,7.39318,Jeruzeth Engineering Company,FSV
+Esso,Erha & Usan,3.60676,7.39318,Strickland Services Ltd,FSV
+Esso,Erha & Usan,3.60676,7.39318,E.A Temile & Sons Devmt Co. Nig Ltd,109T/90T
+Esso,Erha & Usan,3.60676,7.39318,Exelon Oilfield Support Services Ltd,83T
+Esso,Erha & Usan,3.60676,7.39318,AfrikDelta Marine Ltd,60T
